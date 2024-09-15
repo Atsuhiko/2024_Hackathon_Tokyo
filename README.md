@@ -14,3 +14,5 @@ Various AI models were used, such as
 
   To implement SadTalker in Gradio app, I modified the original inference.py code to inference6.py as attached.
   Based on Tokyo-tech llm's model, QLoRA instruction tunig was carried out using peft and TR libraries of Hugging Face.
+
+  Please refer to original GitHub sites to prepare the implemantation environment.
